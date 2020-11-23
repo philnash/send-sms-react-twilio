@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-scripts": "^2.1.8"
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -26,13 +26,13 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.3",
-    "express-pino-logger": "^4.0.0",
-    "node-env-run": "^3.0.2",
-    "nodemon": "^1.18.10",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-pino-logger": "^5.0.0",
+    "node-env-run": "^4.0.2",
+    "nodemon": "^2.0.6",
     "npm-run-all": "^4.1.5",
-    "pino-colada": "^1.4.4",
-    "twilio": "^3.22.0"
+    "pino-colada": "^2.1.0",
+    "twilio": "^3.52.0"
   }
 }
